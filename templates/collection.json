@@ -1,1 +1,109 @@
-{"sections":{"main-collection-banner":{"type":"main-collection-banner","disabled":true,"settings":{"show_collection_description":true,"show_collection_image":true,"color_scheme":"inverse"}},"dd7fa24d-96b2-4165-bf01-d33779533aea":{"type":"image-banner","blocks":{"template--21671797588285__dd7fa24d-96b2-4165-bf01-d33779533aea-heading-1":{"type":"heading","settings":{"heading":"Waterproof. City Essential. Unisex.","heading_size":"h1"}},"template--21671797588285__dd7fa24d-96b2-4165-bf01-d33779533aea-text-1":{"type":"text","settings":{"text":"The Anyday Rain Boot","text_style":"subtitle"}}},"block_order":["template--21671797588285__dd7fa24d-96b2-4165-bf01-d33779533aea-heading-1","template--21671797588285__dd7fa24d-96b2-4165-bf01-d33779533aea-text-1"],"settings":{"image":"shopify:\/\/shop_images\/Anyday_Rain_Collection.png","image_overlay_opacity":0,"image_height":"small","desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-2","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"main-collection-product-grid":{"type":"main-collection-product-grid","settings":{"products_per_page":8,"columns_desktop":2,"color_scheme":"background-1","image_ratio":"adapt","image_shape":"default","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":true,"enable_filtering":true,"filter_type":"horizontal","enable_sorting":true,"columns_mobile":"1","padding_top":36,"padding_bottom":36}},"57469f55-d7ae-415c-8d56-8364906867b6":{"type":"newsletter","blocks":{"template--21671797588285__57469f55-d7ae-415c-8d56-8364906867b6-heading-1":{"type":"heading","settings":{"heading":"Let's stay in touch!","heading_size":"h1"}},"template--21671797588285__57469f55-d7ae-415c-8d56-8364906867b6-paragraph-1":{"type":"paragraph","settings":{"text":"<p>Subscribe to our newsletter. Get $10 off your first purchase, exclusive offers and outdoor tips, trips and education.<\/p>"}},"template--21671797588285__57469f55-d7ae-415c-8d56-8364906867b6-email_form-1":{"type":"email_form","settings":{}}},"block_order":["template--21671797588285__57469f55-d7ae-415c-8d56-8364906867b6-heading-1","template--21671797588285__57469f55-d7ae-415c-8d56-8364906867b6-paragraph-1","template--21671797588285__57469f55-d7ae-415c-8d56-8364906867b6-email_form-1"],"settings":{"color_scheme":"background-1","full_width":true,"padding_top":100,"padding_bottom":100}}},"order":["main-collection-banner","dd7fa24d-96b2-4165-bf01-d33779533aea","main-collection-product-grid","57469f55-d7ae-415c-8d56-8364906867b6"]}
+{
+  "sections": {
+    "main-collection-banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "inverse"
+      }
+    },
+    "dd7fa24d-96b2-4165-bf01-d33779533aea": {
+      "type": "image-banner",
+      "blocks": {
+        "template--21671797588285__dd7fa24d-96b2-4165-bf01-d33779533aea-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Waterproof. City Essential. Unisex.",
+            "heading_size": "h1"
+          }
+        },
+        "template--21671797588285__dd7fa24d-96b2-4165-bf01-d33779533aea-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "The Anyday Rain Boot",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "template--21671797588285__dd7fa24d-96b2-4165-bf01-d33779533aea-heading-1",
+        "template--21671797588285__dd7fa24d-96b2-4165-bf01-d33779533aea-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Anyday_Rain_Collection.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main-collection-product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 8,
+        "columns_desktop": 2,
+        "color_scheme": "background-2",
+        "image_ratio": "square",
+        "image_shape": "blob",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "57469f55-d7ae-415c-8d56-8364906867b6": {
+      "type": "newsletter",
+      "blocks": {
+        "template--21671797588285__57469f55-d7ae-415c-8d56-8364906867b6-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Let's stay in touch!",
+            "heading_size": "h1"
+          }
+        },
+        "template--21671797588285__57469f55-d7ae-415c-8d56-8364906867b6-paragraph-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Subscribe to our newsletter. Get $10 off your first purchase, exclusive offers and outdoor tips, trips and education.<\/p>"
+          }
+        },
+        "template--21671797588285__57469f55-d7ae-415c-8d56-8364906867b6-email_form-1": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--21671797588285__57469f55-d7ae-415c-8d56-8364906867b6-heading-1",
+        "template--21671797588285__57469f55-d7ae-415c-8d56-8364906867b6-paragraph-1",
+        "template--21671797588285__57469f55-d7ae-415c-8d56-8364906867b6-email_form-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "main-collection-banner",
+    "dd7fa24d-96b2-4165-bf01-d33779533aea",
+    "main-collection-product-grid",
+    "57469f55-d7ae-415c-8d56-8364906867b6"
+  ]
+}
