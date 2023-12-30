@@ -87,7 +87,7 @@
                     </div>
                   {%- when 'link_list' -%}
                     {%- if block.settings.menu != blank -%}
-                      <ul class="footer-block__details-content list-unstyled">
+                       <a href="{{ block.settings.title_link }}"><ul class="footer-block__details-content list-unstyled">
                         {%- for link in block.settings.menu.links -%}
                           <li>
                             <a
@@ -98,7 +98,7 @@
                             </a>
                           </li>
                         {%- endfor -%}
-                      </ul>
+                      </ul></a>
                     {%- endif -%}
                   {%- when 'brand_information' -%}
                     <div class="footer-block__brand-info">
@@ -388,6 +388,11 @@
           "id": "heading",
           "default": "Quick links",
           "label": "t:sections.footer.blocks.link_list.settings.heading.label"
+        },
+         {
+          "type": "url",
+          "id": "title_link",
+          "label": "Title link"
         },
         {
           "type": "link_list",
