@@ -93,13 +93,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "popup_whDAEc": {
-          "type": "popup",
-          "settings": {
-            "text": "Size-Chart",
-            "page": "size-chart-1"
-          }
         }
       },
       "block_order": [
@@ -116,8 +109,7 @@
         "a7105970-4978-4fa7-8f65-aabf363b1495",
         "cd58b1dd-3094-4a07-a750-713ee54f95f6",
         "e9097588-4146-4853-b20b-4f5bc0f8f0bf",
-        "37cc4e45-0b8f-4648-8b83-57dad16a432c",
-        "popup_whDAEc"
+        "37cc4e45-0b8f-4648-8b83-57dad16a432c"
       ],
       "settings": {
         "enable_sticky_info": true,
