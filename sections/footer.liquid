@@ -132,17 +132,17 @@
                       {%- endif -%}
                     </div>
                     {% when 'newsletter' %}
-                      {%- if block.settings.newsletter_enable -%}
+                      {%- if block.settings.block_newsletter_enable -%}
                         <div class="footer-block__newsletter">
-                          {%- if block.settings.newsletter_heading != blank -%}
-                            <h2 class="footer-block__heading inline-richtext">{{ block.settings.newsletter_heading }}</h2>
+                          {%- if block.settings.block_newsletter_heading != blank -%}
+                            <h2 class="footer-block__heading inline-richtext">{{ block.settings.block_newsletter_heading }}</h2>
                           {%- endif -%}
                           {%- form 'customer', id: 'ContactFooter', class: 'footer__newsletter newsletter-form' -%}
                             <input type="hidden" name="contact[tags]" value="newsletter">
                             <div class="newsletter-form__field-wrapper">
                               <div class="field">
                                 <input
-                                  id="NewsletterForm--{{ block.id }}"
+                                  id="NewsletterForm--{{ section.id }}"
                                   type="email"
                                   name="contact[email]"
                                   class="field__input"
@@ -161,7 +161,7 @@
                                   placeholder="{{ 'newsletter.label' | t }}"
                                   required
                                 >
-                                <label class="field__label" for="NewsletterForm--{{ block.id }}">
+                                <label class="field__label" for="NewsletterForm--{{ section.id }}">
                                   {{ 'newsletter.label' | t }}
                                 </label>
                                 <button
@@ -488,6 +488,28 @@
           "label": "t:sections.footer.blocks.brand_information.settings.show_social.label",
           "info": "t:sections.footer.blocks.brand_information.settings.show_social.info"
         }
+      ]
+    },
+    {
+      "type": "newsletter",
+      "name": "Newsletter",
+      "limit": 2,
+      "settings": [
+       {
+          "type": "checkbox",
+          "id": "block_newsletter_enable",        
+          "label": "Image"
+        },
+        {
+          "type": "richtext",
+          "id": "block_newsletter_heading",
+          "label": "Heading"
+        },
+        {
+          "type": "text",
+          "id": "block_newsletter_subheading",
+          "label": "Text"
+        }     
       ]
     },
     {
