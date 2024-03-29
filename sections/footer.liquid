@@ -137,6 +137,9 @@
                           {%- if block.settings.block_newsletter_heading != blank -%}
                             <h2 class="footer-block__heading inline-richtext">{{ block.settings.block_newsletter_heading }}</h2>
                           {%- endif -%}
+                          {%- if block.settings.block_newsletter_subheading != blank -%}
+                            <h4 class="footer-block__heading inline-richtext">{{ block.settings.block_newsletter_subheading }}</h4>
+                          {%- endif -%}
                           {%- form 'customer', id: 'ContactFooter', class: 'footer__newsletter newsletter-form' -%}
                             <input type="hidden" name="contact[tags]" value="newsletter">
                             <div class="newsletter-form__field-wrapper">
