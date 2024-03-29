@@ -34,22 +34,13 @@
             "title_link": "",
             "menu": "main-menu2"
           }
-        },
-        "newsletter_TnTQVm": {
-          "type": "newsletter",
-          "settings": {
-            "block_newsletter_enable": true,
-            "block_newsletter_heading": "",
-            "block_newsletter_subheading": ""
-          }
         }
       },
       "block_order": [
         "dcc04923-7802-448d-b6c8-a6d7f60c17cf",
         "6402226c-117d-4c2c-a5c1-6adc929ece4b",
         "c6e38ae0-b771-4805-9888-935172b178a6",
-        "aa6db61f-2b42-4820-b74c-951cdd75363e",
-        "newsletter_TnTQVm"
+        "aa6db61f-2b42-4820-b74c-951cdd75363e"
       ],
       "settings": {
         "color_scheme": "accent-2",
