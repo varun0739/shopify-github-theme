@@ -58,22 +58,36 @@
     "rich-text-1": {
       "type": "rich-text",
       "blocks": {
-        "heading": {
+        "heading_N8gFif": {
           "type": "heading",
           "settings": {
-            "heading": "Socially and Environmentally Progressive Outdoor Footwear That Helps You #BeOutside.",
+            "heading": "“Thes-us”",
             "heading_size": "h1"
+          }
+        },
+        "text_eBW9kY": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>(a theory, proven by community action)<\/h2>"
+          }
+        },
+        "text_pQBP4r": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>We help people connect to themselves, their community and the Planet through a simple everyday essential, outdoor footwear. <\/h2>"
           }
         }
       },
       "block_order": [
-        "heading"
+        "heading_N8gFif",
+        "text_eBW9kY",
+        "text_pQBP4r"
       ],
       "settings": {
         "cstm_class": "",
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "inverse",
+        "color_scheme": "scheme-c892a90d-0c42-49e4-93cf-11a1d07fa1a6",
         "full_width": true,
         "padding_top": 44,
         "padding_bottom": 44
