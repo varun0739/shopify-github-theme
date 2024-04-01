@@ -6,7 +6,7 @@
         "template--21671797621053__4418e052-dfc0-4f62-8567-3ca26190dd9d-slide-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Frame_1752_3.png",
+            "image": "shopify:\/\/shop_images\/SneakerLandingPage_4.png",
             "heading": "Image slideSALE - Now Up To 50% Off!",
             "heading_size": "h1",
             "subheading": "The best sale just got even better.",
@@ -17,7 +17,7 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "scheme-c892a90d-0c42-49e4-93cf-11a1d07fa1a6",
             "text_alignment_mobile": "center"
           }
         },
