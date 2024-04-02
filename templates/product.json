@@ -213,6 +213,53 @@
         "padding_bottom": 36
       }
     },
+    "collection_list_QQYYmb": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_4WHcCC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "all-weather"
+          }
+        },
+        "featured_collection_6kKYkF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "snow"
+          }
+        },
+        "featured_collection_Pz3PdF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "rain"
+          }
+        },
+        "featured_collection_ATQXik": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sun"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_4WHcCC",
+        "featured_collection_6kKYkF",
+        "featured_collection_Pz3PdF",
+        "featured_collection_ATQXik"
+      ],
+      "settings": {
+        "title": "Outdoor Winter Function. Modern Look.",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "inverse",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -270,6 +317,7 @@
     "main",
     "170131570089eb88da",
     "0f0a3722-d449-468e-930d-1d550b61ab3d",
+    "collection_list_QQYYmb",
     "related-products",
     "fefbec92-bfdf-40b3-83bf-3e2ec9d5717c"
   ]
