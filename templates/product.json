@@ -82,9 +82,18 @@
         "cd58b1dd-3094-4a07-a750-713ee54f95f6": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Free shipping & easy returns",
+            "heading": "Free shipping globally",
             "icon": "truck",
             "content": "<p>Free shipping over $100. Check out our <a href=\"https:\/\/thesusoutdoors.com\/pages\/shipping-information-1\" target=\"_blank\" title=\"Shipping Information\">Shipping Policy <\/a>for more details.<\/p><p>Need to make a return? Simply reach out to our team at: <a href=\"mailto:%22support@thesusoutdoors.com%22\" target=\"_blank\" title=\"mailto:&quot;support@thesusoutdoors.com&quot;\">support@thesusoutdoors.com<\/a><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_4d4iYp": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Easy returns",
+            "icon": "return",
+            "content": "<p>Easy returns in North America as many times as you need to find the right size. Just <a href=\"mailto:support@thesusoutdoors.com\" target=\"_blank\" title=\"mailto:support@thesusoutdoors.com\">contact our team for support<\/a>!<\/p>",
             "page": ""
           }
         },
@@ -118,6 +127,7 @@
         "collapsible_tab_ixLCbd",
         "a7105970-4978-4fa7-8f65-aabf363b1495",
         "cd58b1dd-3094-4a07-a750-713ee54f95f6",
+        "collapsible_tab_4d4iYp",
         "e9097588-4146-4853-b20b-4f5bc0f8f0bf",
         "37cc4e45-0b8f-4648-8b83-57dad16a432c"
       ],
