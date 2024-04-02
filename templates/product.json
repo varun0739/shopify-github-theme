@@ -84,7 +84,7 @@
           "settings": {
             "heading": "Free shipping globally",
             "icon": "truck",
-            "content": "<p>Free shipping over $100. Check out our <a href=\"https:\/\/thesusoutdoors.com\/pages\/shipping-information-1\" target=\"_blank\" title=\"Shipping Information\">Shipping Policy <\/a>for more details.<\/p><p>Need to make a return? Simply reach out to our team at: <a href=\"mailto:%22support@thesusoutdoors.com%22\" target=\"_blank\" title=\"mailto:&quot;support@thesusoutdoors.com&quot;\">support@thesusoutdoors.com<\/a><\/p>",
+            "content": "<p>Free shipping over $100. Check out our <a href=\"\/pages\/shipping-delivery\" target=\"_blank\" title=\"Shipping & Delivery\">Shipping Policy <\/a>for more details.<\/p><p>Need to make a return? Simply reach out to our team at: <a href=\"#\" target=\"_blank\" title=\"#\">support@thesusoutdoors.com<\/a><\/p>",
             "page": ""
           }
         },
