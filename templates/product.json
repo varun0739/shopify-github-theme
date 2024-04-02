@@ -113,7 +113,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
-        "color_scheme": "accent-1",
+        "color_scheme": "accent-2",
         "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "contain",
