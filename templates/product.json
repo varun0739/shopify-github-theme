@@ -61,6 +61,15 @@
           "settings": {
           }
         },
+        "collapsible_tab_ixLCbd": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Sustainable features",
+            "icon": "leaf",
+            "content": "<p>The nylon upper is made from repurposed marine plastic collected by fishermen globally.<\/p><p>Anti-tear laces are made with 100% recycled PET bottles.<\/p><p>Water-based vegan glue binds the upper and soles together.<\/p>",
+            "page": ""
+          }
+        },
         "a7105970-4978-4fa7-8f65-aabf363b1495": {
           "type": "collapsible_tab",
           "settings": {
@@ -106,6 +115,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
+        "collapsible_tab_ixLCbd",
         "a7105970-4978-4fa7-8f65-aabf363b1495",
         "cd58b1dd-3094-4a07-a750-713ee54f95f6",
         "e9097588-4146-4853-b20b-4f5bc0f8f0bf",
