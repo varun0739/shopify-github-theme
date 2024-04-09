@@ -3518,3 +3518,5 @@ details-disclosure>details {
 /* New CSS */
 .footer {background: #123026;}
 .rich-shop .rich-text__blocks .button {background: #8a9590;color: #fff;border-radius: 8px;}
+.collection-list-wrapper .title-wrapper-with-link { justify-content: center; }
+
