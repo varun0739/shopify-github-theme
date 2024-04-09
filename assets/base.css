@@ -3519,4 +3519,4 @@ details-disclosure>details {
 .footer {background: #123026;}
 .rich-shop .rich-text__blocks .button {background: #8a9590;color: #fff;border-radius: 8px;}
 .collection-list-wrapper .title-wrapper-with-link { justify-content: center; }
-
+.collection__title .title { text-align: center;}
