@@ -150,7 +150,7 @@
     "featured_collection_hBmtLB": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "<strong>Featured collection<\/strong>",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
