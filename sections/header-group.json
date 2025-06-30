@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -11,10 +20,18 @@
             "text": "Get your limited pair of sustainable outdoor footwear now.",
             "link": ""
           }
+        },
+        "announcement_hz7iW9": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement"
+        "announcement",
+        "announcement_hz7iW9"
       ],
       "settings": {
         "color_scheme": "scheme-c892a90d-0c42-49e4-93cf-11a1d07fa1a6",
