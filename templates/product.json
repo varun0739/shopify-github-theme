@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -12,18 +21,15 @@
         },
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "13e25a96-26ec-4d78-abd0-4dc9b6d2edc1": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -40,14 +46,16 @@
         },
         "rating": {
           "type": "rating",
-          "settings": {
-          }
+          "settings": {}
         },
         "quantity_selector": {
           "type": "quantity_selector",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
+        },
+        "joy_subscription_subscription_widget_FfbenC": {
+          "type": "shopify://apps/joy-subscription/blocks/subscription-widget/6aa30d9c-ff0b-4f29-a82d-a633d8e04b9a",
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -58,15 +66,14 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "collapsible_tab_ixLCbd": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "Sustainable features",
             "icon": "leaf",
-            "content": "<p>The nylon upper is made from repurposed marine plastic collected by fishermen globally.<\/p><p>Anti-tear laces are made with 100% recycled PET bottles.<\/p><p>Water-based vegan glue binds the upper and soles together.<\/p>",
+            "content": "<p>The nylon upper is made from repurposed marine plastic collected by fishermen globally.</p><p>Anti-tear laces are made with 100% recycled PET bottles.</p><p>Water-based vegan glue binds the upper and soles together.</p>",
             "page": ""
           }
         },
@@ -75,7 +82,7 @@
           "settings": {
             "heading": "Core features",
             "icon": "ruler",
-            "content": "<p>Handmade. Made in a family-run factory in Portugal.<br\/><br\/>Waterproof and easy to clean made with 100% recycled rubber upper.<br\/><br\/>Versatile ankle height for maximum wearability around town.<br\/><br\/>Grippy all season lug sole made from 45% recycled rubber.<br\/><br\/>Sweat-wicking lining made from 100% recycled nylon.<br\/><br\/>Comfy memory foam insole makes you feel like you are walking on a cloud.<br\/><br\/>Easy on-and-off with pull tabs and stretch side panels made with recycled nylon.<\/p>",
+            "content": "<p>Handmade. Made in a family-run factory in Portugal.<br/><br/>Waterproof and easy to clean made with 100% recycled rubber upper.<br/><br/>Versatile ankle height for maximum wearability around town.<br/><br/>Grippy all season lug sole made from 45% recycled rubber.<br/><br/>Sweat-wicking lining made from 100% recycled nylon.<br/><br/>Comfy memory foam insole makes you feel like you are walking on a cloud.<br/><br/>Easy on-and-off with pull tabs and stretch side panels made with recycled nylon.</p>",
             "page": ""
           }
         },
@@ -84,7 +91,7 @@
           "settings": {
             "heading": "Free shipping globally",
             "icon": "truck",
-            "content": "<p>Free shipping over $100. Check out our <a href=\"\/pages\/shipping-delivery\" target=\"_blank\" title=\"Shipping & Delivery\">Shipping Policy <\/a>for more details.<\/p><p>Need to make a return? Simply reach out to our team at: <a href=\"#\" target=\"_blank\" title=\"#\">support@thesusoutdoors.com<\/a><\/p>",
+            "content": "<p>Free shipping over $100. Check out our <a href=\"/pages/shipping-delivery\" target=\"_blank\" title=\"Shipping & Delivery\">Shipping Policy </a>for more details.</p><p>Need to make a return? Simply reach out to our team at: <a href=\"#\" target=\"_blank\" title=\"#\">support@thesusoutdoors.com</a></p>",
             "page": ""
           }
         },
@@ -93,7 +100,7 @@
           "settings": {
             "heading": "Easy returns",
             "icon": "return",
-            "content": "<p>Easy returns in North America as many times as you need to find the right size. Just <a href=\"mailto:support@thesusoutdoors.com\" target=\"_blank\" title=\"mailto:support@thesusoutdoors.com\">contact our team for support<\/a>!<\/p>",
+            "content": "<p>Easy returns in North America as many times as you need to find the right size. Just <a href=\"mailto:support@thesusoutdoors.com\" target=\"_blank\" title=\"mailto:support@thesusoutdoors.com\">contact our team for support</a>!</p>",
             "page": ""
           }
         },
@@ -102,7 +109,7 @@
           "settings": {
             "heading": "Pay in 4",
             "icon": "price_tag",
-            "content": "<p>Buy now, pay later! Pay in 4 easy instalments.<\/p>",
+            "content": "<p>Buy now, pay later! Pay in 4 easy instalments.</p>",
             "page": ""
           }
         },
@@ -122,6 +129,7 @@
         "2bcd5a4b-f704-476d-be26-3cf9809356b0",
         "rating",
         "quantity_selector",
+        "joy_subscription_subscription_widget_FfbenC",
         "buy_buttons",
         "description",
         "collapsible_tab_ixLCbd",
@@ -150,7 +158,7 @@
     "featured_collection_hBmtLB": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>Featured collection<\/strong>",
+        "title": "<strong>Featured collection</strong>",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
@@ -179,9 +187,8 @@
       "type": "apps",
       "blocks": {
         "33142457-5fbb-4dec-ab43-c5aecd0b6b18": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         }
       },
       "block_order": [
@@ -197,10 +204,10 @@
         "df8b29d3-804a-4c17-a4b8-a0615e4c4d63": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/sustainable-hiking-bootsa.png",
+            "image": "shopify://shop_images/sustainable-hiking-bootsa.png",
             "caption": "",
             "heading": "Comfy all day",
-            "text": "<p>The soft, natural rubber sole makes you feel like you’re walking on a cloud. We put in a comfortable memory foam insole made to absorb traction and contour to your feet and laces to ensure the perfect fit for all foot shapes.<\/p>",
+            "text": "<p>The soft, natural rubber sole makes you feel like you’re walking on a cloud. We put in a comfortable memory foam insole made to absorb traction and contour to your feet and laces to ensure the perfect fit for all foot shapes.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -208,10 +215,10 @@
         "template--21671797784893__0f0a3722-d449-468e-930d-1d550b61ab3d-row-1": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/comfortable-winter-boots.png",
+            "image": "shopify://shop_images/comfortable-winter-boots.png",
             "caption": "",
             "heading": "Cozy all year",
-            "text": "<p>Made with a seam-sealed water resistant upper, anti-slip rubber lug sole and temperature control lining. These boots are designed with breathability in mind. Pair them with our woolly footbeds for some extra warmth on those cooler days.<\/p>",
+            "text": "<p>Made with a seam-sealed water resistant upper, anti-slip rubber lug sole and temperature control lining. These boots are designed with breathability in mind. Pair them with our woolly footbeds for some extra warmth on those cooler days.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -219,10 +226,10 @@
         "template--21671797784893__0f0a3722-d449-468e-930d-1d550b61ab3d-row-2": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/sustainable-womens-bootsb.png",
+            "image": "shopify://shop_images/sustainable-womens-bootsb.png",
             "caption": "",
             "heading": "Wear with anything",
-            "text": "<p>With minimal exterior branding, the Weekend Boot is designed to be worn dressed up or down, wherever your day takes you - a walk in the park, brunch or errands in the city. Wherever you go, they go.<\/p>",
+            "text": "<p>With minimal exterior branding, the Weekend Boot is designed to be worn dressed up or down, wherever your day takes you - a walk in the park, brunch or errands in the city. Wherever you go, they go.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -230,10 +237,10 @@
         "template--21671797784893__0f0a3722-d449-468e-930d-1d550b61ab3d-row-3": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/sustainalble-walking-boots.png",
+            "image": "shopify://shop_images/sustainalble-walking-boots.png",
             "caption": "",
             "heading": "1.6 kg of waste removed per pair",
-            "text": "<p>Our Weekend Boots are vegan and 98% virgin plastic free. The nylon upper is made from repurposed marine plastic collected by fishermen globally. Our lug sole is made with natural and recycled rubber. High performance water based vegan glue binds the upper and soles together.<\/p>",
+            "text": "<p>Our Weekend Boots are vegan and 98% virgin plastic free. The nylon upper is made from repurposed marine plastic collected by fishermen globally. Our lug sole is made with natural and recycled rubber. High performance water based vegan glue binds the upper and soles together.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -339,13 +346,12 @@
         "template--21671797784893__fefbec92-bfdf-40b3-83bf-3e2ec9d5717c-paragraph-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Subscribe to our newsletter. Get $10 off your first purchase, exclusive offers and outdoor tips, trips and education.<\/p>"
+            "text": "<p>Subscribe to our newsletter. Get $10 off your first purchase, exclusive offers and outdoor tips, trips and education.</p>"
           }
         },
         "template--21671797784893__fefbec92-bfdf-40b3-83bf-3e2ec9d5717c-email_form-1": {
           "type": "email_form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
